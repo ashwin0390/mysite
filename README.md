@@ -2,8 +2,8 @@
 POC for AEM Helix
 
 ## Environments
-- Preview: https://main--mysite_aem_helix--ashwin0390.hlx.page/
-- Live: https://main--mysite_aem_helix--ashwin0390.hlx.live/
+- Preview: https://main--mysite--ashwin0390.hlx.page/
+- Live: https://main--mysite--ashwin0390.hlx.live/
 
 ## Installation
 
