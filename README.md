@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My SITE AEM HELIX
+POC for AEM Helix
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--mysite_aem_helix--ashwin0390.hlx.page/
+- Live: https://main--mysite_aem_helix--ashwin0390.hlx.live/
 
 ## Installation
 
